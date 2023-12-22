@@ -3,6 +3,10 @@
 [rive_file](https://shogoisaji.github.io/colasol/](https://github.com/shogoisaji/rive_keyboard/blob/main/assets/rive/))  
 <br />
 
+[参考動画](https://www.youtube.com/watch?v=5-yYkOmyeo8)
+<br />
+<br />
+
 ![keyboard](https://github.com/shogoisaji/rive_keyboard/assets/131496728/44beb44d-b317-4147-bb9e-dd20d42b4e23)
 
 

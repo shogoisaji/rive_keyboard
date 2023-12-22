@@ -1,5 +1,8 @@
 # rive_keyboard
 
+![keyboard](https://github.com/shogoisaji/rive_keyboard/assets/131496728/44beb44d-b317-4147-bb9e-dd20d42b4e23)
+
+
 A new Flutter project.
 
 ## Getting Started

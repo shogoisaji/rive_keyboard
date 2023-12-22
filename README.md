@@ -1,6 +1,6 @@
 # rive_keyboard
 
-[rive_file](https://shogoisaji.github.io/colasol/](https://github.com/shogoisaji/rive_keyboard/blob/main/assets/rive/))  
+[rive_file](https://github.com/shogoisaji/rive_keyboard/tree/main/assets/rive)  
 <br />
 
 [参考動画](https://www.youtube.com/watch?v=5-yYkOmyeo8)
